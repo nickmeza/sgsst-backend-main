@@ -1,0 +1,17 @@
+
+./*.zip
+
+node_modules/
+
+
+uploads/departamentos/**.jpg
+uploads/departamentos/**.png
+uploads/departamentos/**.gif
+
+uploads/usuarios/**.jpg
+uploads/usuarios/**.png
+uploads/usuarios/**.gif
+
+uploads/agentes/**.jpg
+uploads/agentes/**.png
+uploads/agentes/**.gif
